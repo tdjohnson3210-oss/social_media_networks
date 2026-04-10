@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Generated notebook output figures
+degree_distribution.png
+centrality_correlation.png
+clustering_by_persona.png
+community_composition.png
+top_influencers.png
+sir_simulation.png
+network_by_persona.png
+network_by_community.png
+network_influencer_heatmap.png
+
+# OS
+.DS_Store
+Thumbs.db
