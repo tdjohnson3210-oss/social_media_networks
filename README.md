@@ -1,4 +1,4 @@
-# social_media_networks
+# Analyzing Social Media Networks using Python
 This project analyzes a large communication network by building a directed graph from interaction data and applying centrality, clustering, and community‑detection methods to identify key influencers and information‑flow patterns.
 
 🔍 Goals
